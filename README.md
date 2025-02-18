@@ -1,5 +1,5 @@
 # Planeterium Project
-![Image](./ReadmePhotos/Image)
+![Image](./ReadmePhotos/Image.png)
 ## Project Outline
 This project contains a unity file for graphics of a proposed event. The event space will have a large screen projecting the game scene of the unity file. The concept is a planetarium filled with stars that represent visitor’s angel numbers. Visitors will be able to create a star by inputting their angel number into an external application, and a unique star will be created by a deterministic algorithm, and presented on the game scene. 
 
