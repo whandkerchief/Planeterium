@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bea763490642c3c4c93b6f9ecdcb0a29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boundaryTexture: {fileID: 2800000, guid: e5a905005965393478b3cf95bdf6d910, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
