@@ -6,7 +6,8 @@ This project contains a unity file for graphics of a proposed event. The event s
 In the unity project file, navigate to Scenes -> Planetarium and enter game mode to see the main graphics for the proposed event. 
 
 Run the Planeterium_Client java file with
-java PlaneteriumClient <star index (0-2)> <seed>
+
+java PlaneteriumClient < index(0-2) > < seed >
 
 This will update a star in the unity game scene
 
