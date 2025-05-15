@@ -248,7 +248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bea763490642c3c4c93b6f9ecdcb0a29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boundaryTexture: {fileID: 2800000, guid: e5a905005965393478b3cf95bdf6d910, type: 3}
+  boundaryTexture: {fileID: 2800000, guid: dfa38eaa6393de34695e9e7ddad4d76c, type: 3}
   textureWidth: 6
   textureHeight: 6
   checkInterval: 5
@@ -1603,7 +1603,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 0, b: 0, a: 1}
+        key0: {r: 0.8124484, g: 1, b: 0, a: 1}
         key1: {r: 0, g: 0, b: 0, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
